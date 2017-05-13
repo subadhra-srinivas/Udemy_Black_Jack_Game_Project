@@ -1,9 +1,11 @@
 # Udemy_Black_Jack_Game_Project
 
 **Files Required:**
+
 black_jack_game.py
 
 **How To Play:**
+
 1.Enter the bet amount</br>
 2. Player's 2 cards and the sum will be displayed</br>
 3. Dealer's two cards and sum will be displayed</br>
